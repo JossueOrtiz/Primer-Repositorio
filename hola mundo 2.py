@@ -16,5 +16,3 @@ else :
     print("Felicidades pasa por tu certificado")
 #En python no existe el switch case lamentablemente 
 #me quede en el minuto 1.22
-git config --global user.email "ceinnova02604@innovaccion.mx"
-git config --global user.name "Josky"
